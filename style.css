@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+}
+#heading{
+    background-color: #000000;
+    color: #ff0054;
+    font-family: 'Bungee Spice', cursive;
+    font-size: 30px;
+}
+#start{
+    background-color: #cdb4db;
+    color: #bc00dd;
+    font-family: 'Mali', cursive;
+    font-size: 15px;
+}
+#status{
+    background-color: #ff9189;
+    color: #e20000;
+    font-family: 'Mali', cursive;
+    font-size: 15px;
+}
+#found{
+    background-color: #dadbb4;
+    color: #8d9a01;
+    font-family: 'Mali', cursive;
+    font-size: 15px;
+}
+canvas{
+    border: 2px solid #b3dee2;
+    box-shadow: 5px,5px,5px,white;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 30px;
+    color: rgb(200, 0, 255);
+    background-color: rgb(190, 243, 225);
+    font-family: 'Mali', cursive;
+    font-size: 15px;
+    font-weight: bold;
+}
+#name{
+    font-family: 'Marhey', cursive;
+}
+p{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 15px;
+}
